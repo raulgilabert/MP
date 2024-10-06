@@ -18,7 +18,7 @@ L13
 VjN9Y0i57VPDOWRd20io;h1
 Z10 OV;C;10.1d;51
 31
-Z11 !s108 1728241302.839279
+Z11 !s108 1728242366.488858
 Z12 !s90 -reportprogress|300|-93|-work|work|/home/usuari/universidad/Q7/MP/LAB1/Segmentado/proyecto_1/mcd/camino/ensamblado/CODIGO/camino_mcd.vhd|
 Z13 !s107 /home/usuari/universidad/Q7/MP/LAB1/Segmentado/proyecto_1/mcd/camino/ensamblado/CODIGO/camino_mcd.vhd|
 Z14 o-93 -work work -O0
@@ -62,7 +62,7 @@ R14
 R15
 !s100 ijS;@OMKJ7c4oBMcXbOUo0
 !i10b 1
-!s108 1728241302.700722
+!s108 1728242366.351054
 !s90 -reportprogress|300|-93|-work|work|/home/usuari/universidad/Q7/MP/LAB1/Segmentado/proyecto_1/mcd/componentes_mcd_pkg/componentes_mcd_pkg.vhd|
 !s107 /home/usuari/universidad/Q7/MP/LAB1/Segmentado/proyecto_1/mcd/componentes_mcd_pkg/componentes_mcd_pkg.vhd|
 Pcomponentes_pkg
@@ -83,7 +83,7 @@ R14
 R15
 !s100 i@]8_^RQ_FAIQfPLYnl9J3
 !i10b 1
-!s108 1728241302.651470
+!s108 1728242366.302864
 !s90 -reportprogress|300|-93|-work|work|/home/usuari/universidad/Q7/MP/LAB1/Secuencial/proyecto_1/mcd/camino/componentes_pkg/componentes_pkg.vhd|
 !s107 /home/usuari/universidad/Q7/MP/LAB1/Secuencial/proyecto_1/mcd/camino/componentes_pkg/componentes_pkg.vhd|
 Econtrol
@@ -102,7 +102,7 @@ L13
 Vb1@Ez2fEJDh^jhPZ9m0eA1
 R10
 31
-Z22 !s108 1728241302.870317
+Z22 !s108 1728242366.515371
 Z23 !s90 -reportprogress|300|-93|-work|work|/home/usuari/universidad/Q7/MP/LAB1/Segmentado/proyecto_1/mcd/control/CODIGO/control.vhd|
 Z24 !s107 /home/usuari/universidad/Q7/MP/LAB1/Segmentado/proyecto_1/mcd/control/CODIGO/control.vhd|
 R14
@@ -145,7 +145,7 @@ R14
 R15
 !s100 6o>eGVMQbi>?3eYR4RB@O1
 !i10b 1
-!s108 1728241302.638364
+!s108 1728242366.289973
 !s90 -reportprogress|300|-93|-work|work|/home/usuari/universidad/Q7/MP/LAB1/Segmentado/proyecto_1/mcd/control/CODIGO/estado_pkg.vhd|
 !s107 /home/usuari/universidad/Q7/MP/LAB1/Segmentado/proyecto_1/mcd/control/CODIGO/estado_pkg.vhd|
 Eetapa_mcd
@@ -164,7 +164,7 @@ L14
 V[MnNDjGb3fMdcE]@f9@C_3
 R10
 31
-Z30 !s108 1728241302.803865
+Z30 !s108 1728242366.453933
 Z31 !s90 -reportprogress|300|-93|-work|work|/home/usuari/universidad/Q7/MP/LAB1/Segmentado/proyecto_1/mcd_interface/CODIGO/etapa_mcd.vhd|
 Z32 !s107 /home/usuari/universidad/Q7/MP/LAB1/Segmentado/proyecto_1/mcd_interface/CODIGO/etapa_mcd.vhd|
 R14
@@ -206,7 +206,7 @@ L13
 VVVh>LAL?Y2mEV=zHX]Ke?2
 R10
 31
-Z36 !s108 1728241302.785878
+Z36 !s108 1728242366.436384
 Z37 !s90 -reportprogress|300|-93|-work|work|/home/usuari/universidad/Q7/MP/LAB1/Secuencial/proyecto_1/mcd/camino/componentes/igual_cero/CODIGO/igual_cero.vhd|
 Z38 !s107 /home/usuari/universidad/Q7/MP/LAB1/Secuencial/proyecto_1/mcd/camino/componentes/igual_cero/CODIGO/igual_cero.vhd|
 R14
@@ -249,7 +249,7 @@ R14
 R15
 !s100 `?fC0`Ao[:Xe^zW7=T8db0
 !i10b 1
-!s108 1728241302.668899
+!s108 1728242366.320080
 !s90 -reportprogress|300|-93|-work|work|/home/usuari/universidad/Q7/MP/LAB1/Secuencial/proyecto_1/tipos_constantes_pkg/interface_pkg.vhd|
 !s107 /home/usuari/universidad/Q7/MP/LAB1/Secuencial/proyecto_1/tipos_constantes_pkg/interface_pkg.vhd|
 Emcd
@@ -267,7 +267,7 @@ L12
 VmEm^HG5M^nnzX6b9NU]bU1
 R10
 31
-Z42 !s108 1728241302.821212
+Z42 !s108 1728242366.471509
 Z43 !s90 -reportprogress|300|-93|-work|work|/home/usuari/universidad/Q7/MP/LAB1/Segmentado/proyecto_1/mcd/ensamblado/CODIGO/mcd.vhd|
 Z44 !s107 /home/usuari/universidad/Q7/MP/LAB1/Segmentado/proyecto_1/mcd/ensamblado/CODIGO/mcd.vhd|
 R14
@@ -308,7 +308,7 @@ L13
 V1;N6bQX1j5=>H57YBZ=cU1
 R10
 31
-Z48 !s108 1728241302.750167
+Z48 !s108 1728242366.398685
 Z49 !s90 -reportprogress|300|-93|-work|work|/home/usuari/universidad/Q7/MP/LAB1/Secuencial/proyecto_1/mcd/camino/componentes/menor/CODIGO/menqu.vhd|
 Z50 !s107 /home/usuari/universidad/Q7/MP/LAB1/Secuencial/proyecto_1/mcd/camino/componentes/menor/CODIGO/menqu.vhd|
 R14
@@ -349,7 +349,7 @@ L12
 VO]aT5j382B=DC9:V1d?zG3
 R10
 31
-Z54 !s108 1728241302.733439
+Z54 !s108 1728242366.381785
 Z55 !s90 -reportprogress|300|-93|-work|work|/home/usuari/universidad/Q7/MP/LAB1/Secuencial/proyecto_1/mcd/camino/componentes/MUX/CODIGO/mux2.vhd|
 Z56 !s107 /home/usuari/universidad/Q7/MP/LAB1/Secuencial/proyecto_1/mcd/camino/componentes/MUX/CODIGO/mux2.vhd|
 R14
@@ -391,7 +391,7 @@ R14
 R15
 !s100 HoE>0k=XjGng;W_nNi7C`1
 !i10b 1
-!s108 1728241302.625285
+!s108 1728242366.275413
 !s90 -reportprogress|300|-93|-work|work|/home/usuari/universidad/Q7/MP/LAB1/Secuencial/proyecto_1/tipos_constantes_pkg/param_disenyo_pkg.vhd|
 !s107 /home/usuari/universidad/Q7/MP/LAB1/Secuencial/proyecto_1/tipos_constantes_pkg/param_disenyo_pkg.vhd|
 Pproc_func_control_pkg
@@ -408,7 +408,7 @@ VLeH:TCXMcOj_8Ri7Y^B[n2
 R10
 31
 b1
-Z60 !s108 1728241302.685374
+Z60 !s108 1728242366.336268
 Z61 !s90 -reportprogress|300|-93|-work|work|/home/usuari/universidad/Q7/MP/LAB1/Segmentado/proyecto_1/mcd/control/CODIGO/proc_func_control_pkg.vhd|
 Z62 !s107 /home/usuari/universidad/Q7/MP/LAB1/Segmentado/proyecto_1/mcd/control/CODIGO/proc_func_control_pkg.vhd|
 R14
@@ -448,7 +448,7 @@ VQ6EUT=T9@Kc6iaFXj3;lc2
 R10
 31
 b1
-Z66 !s108 1728241302.888458
+Z66 !s108 1728242366.539870
 Z67 !s90 -reportprogress|300|-93|-work|work|/home/usuari/universidad/Q7/MP/LAB1/Segmentado/proyecto_1/mcd_interface/QUARTUS/../PRUEBAS/procedimientos_prueba_pkg.vhd|
 Z68 !s107 /home/usuari/universidad/Q7/MP/LAB1/Segmentado/proyecto_1/mcd_interface/QUARTUS/../PRUEBAS/procedimientos_prueba_pkg.vhd|
 R14
@@ -496,7 +496,7 @@ V<z2m2m]b3`8j8dJUSXn@e3
 R10
 31
 !i10b 1
-Z75 !s108 1728241302.908518
+Z75 !s108 1728242366.559522
 Z76 !s90 -reportprogress|300|-93|-work|work|/home/usuari/universidad/Q7/MP/LAB1/Segmentado/proyecto_1/mcd_interface/QUARTUS/../PRUEBAS/prueba_etapa_mcd.vhd|
 Z77 !s107 /home/usuari/universidad/Q7/MP/LAB1/Segmentado/proyecto_1/mcd_interface/QUARTUS/../PRUEBAS/prueba_etapa_mcd.vhd|
 R14
@@ -539,7 +539,7 @@ L11
 VAQZ3:Sb[1hKh;95VP2fRb0
 R10
 31
-Z81 !s108 1728241302.718475
+Z81 !s108 1728242366.367517
 Z82 !s90 -reportprogress|300|-93|-work|work|/home/usuari/universidad/Q7/MP/LAB1/Secuencial/proyecto_1/mcd/camino/componentes/REGISTROS/CODIGO/RD_N_pe.vhd|
 Z83 !s107 /home/usuari/universidad/Q7/MP/LAB1/Secuencial/proyecto_1/mcd/camino/componentes/REGISTROS/CODIGO/RD_N_pe.vhd|
 R14
@@ -580,7 +580,7 @@ R14
 R15
 !s100 VlG4z0Agkdf4VBlDcjc;A0
 !i10b 1
-!s108 1728241302.611427
+!s108 1728242366.259908
 !s90 -reportprogress|300|-93|-work|work|/home/usuari/universidad/Q7/MP/LAB1/Secuencial/proyecto_1/tipos_constantes_pkg/retardos_componentes_pkg.vhd|
 !s107 /home/usuari/universidad/Q7/MP/LAB1/Secuencial/proyecto_1/tipos_constantes_pkg/retardos_componentes_pkg.vhd|
 Esumador
@@ -598,7 +598,7 @@ L13
 Vm^cHbCXG;Q;J:_h8SJ0QE1
 R10
 31
-Z87 !s108 1728241302.767418
+Z87 !s108 1728242366.416519
 Z88 !s90 -reportprogress|300|-93|-work|work|/home/usuari/universidad/Q7/MP/LAB1/Secuencial/proyecto_1/mcd/camino/componentes/sumador/CODIGO/sumador.vhd|
 Z89 !s107 /home/usuari/universidad/Q7/MP/LAB1/Secuencial/proyecto_1/mcd/camino/componentes/sumador/CODIGO/sumador.vhd|
 R14

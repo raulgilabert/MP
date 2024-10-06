@@ -80,7 +80,7 @@ begin
 			when CALC => 
 				if ha_finalizado_calculo(igualcero) then
 				else
-					if menor = '1' then
+					if hay_intercambio(menor) then
 						camino_intercambio(v_pe_a, v_pe_b);
 					else
 						camino_calcular(v_pe_a, v_pe_b);
