@@ -37,24 +37,59 @@ begin
 end process;    
    
 -- logica de proximo estado
-prx_esta: process( ) -- especificar senyales
+prx_esta: process(estado, op_dis, igualcero, consumo, pcero)
 variable v_prxestado: tipoestado;
 begin
-
-
-
-
+	v_prxestado := estado; 
+	if (pcero = not puesta_cero) then
+		case estado is
+			when ESP => 
+				if estan_operandos_disponibles(op_dis) then
+					v_prxestado := CALC;
+				end if;
+			when CALC => 
+				if ha_finalizado_calculo(igualcero) then
+					if es_consumido_resultado (consumo) then
+						v_prxestado := ESP;
+					end if;
+				end if;
+			when others => 
+				v_prxestado := ESP;
+		end case;
+	else
+       v_prxestado := ESP;
+	end if; 
 	prxestado <= v_prxestado after retardo_logica_estado;
 end process;
 
 -- logica de salida 
-logi_sal: process( ) -- especificar senyales
+logi_sal: process(estado, op_dis, igualcero, consumo, pcero, menor)
 variable v_ini, v_pe_a, v_pe_b: std_logic;
 variable v_finalizada, v_desocupada: std_logic;
 begin
+	defecto(v_ini, v_pe_a, v_pe_b, v_finalizada, v_desocupada);
+	if (pcero = not puesta_cero) then
+		case estado is
+			when ESP => 
+				if estan_operandos_disponibles(op_dis) then
+					camino_iniciar(v_ini, v_pe_a, v_pe_b);
+					interfaces_ESP(v_finalizada, v_desocupada);
+				end if;
+			when CALC => 
+				if ha_finalizado_calculo(igualcero) then
+--					defecto camino
+					interfaces_HECHO(v_finalizada, v_desocupada);
+				else
+					if hay_intercambio(menor) then
+						camino_intercambio(v_pe_a, v_pe_b);
+					else
+						camino_calcular(v_pe_a, v_pe_b);
+					end if;
 
-
-
+					interfaces_CALC(v_finalizada, v_desocupada);
+				end if;
+		end case;
+	end if; 
 
 ini <= v_ini after retardo_logica_salida;
 pe_a <= v_pe_a after retardo_logica_salida;
